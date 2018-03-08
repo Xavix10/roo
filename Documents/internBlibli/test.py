@@ -1,2 +1,2 @@
-print ("selamat")
-print ("Diedit nelson")
+print ("selamat pagi")
+print ("Diedit orang")
